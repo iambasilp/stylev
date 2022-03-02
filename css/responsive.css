@@ -34,12 +34,11 @@
 
 @media (max-width: 767px) {
 
-  .slider_bg_box   {
-    
-  }
+
   .slider_section .detail-box h1 span{
     font-size: 60px;
-    line-height: 1px;
+    line-height: 1px
+    ;
   }
 
   .arrival_section .arrival_bg_box img {
@@ -59,6 +58,7 @@
   .slider_section .detail-box,
   .about_section .detail-box {
     margin-bottom: 45px;
+    width: 100%;
   }
 
   .about_section .row {
