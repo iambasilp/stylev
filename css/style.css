@@ -307,8 +307,17 @@ a:focus {
 
 
 
-.header-slider-1 .detail-box p,
-.header-slider-3 .detail-box p {
+.header-slider-1 .detail-box p{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 1.5rem;
+    color: rgb(255, 255, 255);
+  
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    background-color: rgba(53, 57, 68, 0);
+}
+.header-slider-3 .detail-box p{
     font-size: 16px;
     margin-top: 20px;
     margin-bottom: 1.5rem;
